@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>UIRequiredDeviceCapabilities</key>
+	<dict>
+		<key>armv7</key>
+		<true/>
+	</dict>
+	<key>artistId</key>
+	<integer>330049731</integer>
+	<key>artistName</key>
+	<string>Rockstar Games</string>
+	<key>bundleDisplayName</key>
+	<string>GTA: SA</string>
+	<key>bundleShortVersionString</key>
+	<string>1.06</string>
+	<key>bundleVersion</key>
+	<string>1.06</string>
+	<key>copyright</key>
+	<string>© 2013</string>
+	<key>drmVersionNumber</key>
+	<integer>0</integer>
+	<key>fileExtension</key>
+	<string>.app</string>
+	<key>gameCenterEnabled</key>
+	<false/>
+	<key>gameCenterEverEnabled</key>
+	<false/>
+	<key>genre</key>
+	<string>游戏</string>
+	<key>genreId</key>
+	<integer>6014</integer>
+	<key>itemName</key>
+	<string>Grand Theft Auto: San Andreas</string>
+	<key>kind</key>
+	<string>software</string>
+	<key>playlistName</key>
+	<string>Rockstar Games</string>
+	<key>product-type</key>
+	<string>ios-app</string>
+	<key>purchaseDate</key>
+	<date>2016-10-10T07:36:22Z</date>
+	<key>rating</key>
+	<dict>
+		<key>content</key>
+		<string>频繁/强烈的烟酒或毒品使用或相关内容 , 偶尔/轻微的色情内容或裸露 , Advisory.NO.GAMBLING_CONTESTS , 频繁/强烈的成人/性暗示题材 , 频繁/强烈的现实暴力 , 频繁/强烈的亵渎或低俗幽默 , 频繁/强烈的模拟赌博 , 频繁/强烈的卡通或幻想暴力 and Advisory.NO.UNRESTRICTED_WEB_ACCESS</string>
+		<key>label</key>
+		<string>17+</string>
+		<key>rank</key>
+		<integer>600</integer>
+		<key>system</key>
+		<string>itunes-games</string>
+	</dict>
+	<key>releaseDate</key>
+	<string>2013-12-12T08:00:00Z</string>
+	<key>s</key>
+	<integer>143465</integer>
+	<key>softwareIcon57x57URL</key>
+	<string>http://a814.phobos.apple.com/us/r30/Purple3/v4/0d/73/3b/0d733b64-eab9-c0be-e3ac-7b12641e8208/icon114x114.png</string>
+	<key>softwareIconNeedsShine</key>
+	<false/>
+	<key>softwareSupportedDeviceIds</key>
+	<array>
+		<integer>2</integer>
+		<integer>4</integer>
+		<integer>9</integer>
+	</array>
+	<key>softwareVersionBundleId</key>
+	<string>com.rockstargames.gta3sa</string>
+	<key>softwareVersionExternalIdentifier</key>
+	<integer>812041023</integer>
+	<key>softwareVersionExternalIdentifiers</key>
+	<array>
+		<integer>170112646</integer>
+		<integer>217732638</integer>
+		<integer>267442638</integer>
+		<integer>316472651</integer>
+		<integer>390482631</integer>
+		<integer>434072667</integer>
+		<integer>752742655</integer>
+		<integer>812041023</integer>
+	</array>
+	<key>storeCohort</key>
+	<string>5|date=1476084600000&amp;sf=143465&amp;pgtp=Software&amp;pgid=763692274&amp;prpg=Software_1145770843&amp;ctxt=App%20Store</string>
+	<key>subgenres</key>
+	<array>
+		<dict>
+			<key>genre</key>
+			<string>探险游戏</string>
+			<key>genreId</key>
+			<integer>7002</integer>
+		</dict>
+		<dict>
+			<key>genre</key>
+			<string>动作游戏</string>
+			<key>genreId</key>
+			<integer>7001</integer>
+		</dict>
+	</array>
+	<key>userName</key>
+	<string>lee juan</string>
+	<key>vendorId</key>
+	<integer>292028</integer>
+	<key>versionRestrictions</key>
+	<integer>16843008</integer>
+	<key>aiString</key>
+	<string>763692274-7</string>
+</dict>
+</plist>
